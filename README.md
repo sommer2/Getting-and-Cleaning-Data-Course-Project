@@ -9,4 +9,4 @@ submit.txt  - This text file contains the tidy data output from run_analysis.R
 
 CodeBook.md - This code book describes the variables and processes used to clean up the data
 
-README.md This README file describes the files submitted for this project.
+README.md - This file describes each file submitted for this project.
